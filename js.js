@@ -15,3 +15,4 @@ async function nowa(){
     }
 }
 nowa();
+console.log("test")
